@@ -1,4 +1,6 @@
 ### this is to just test the new feature in git hub
+🔭 I’m currently working on pathfinding visualizer
+
 <!--
 **vishnudk/vishnudk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
