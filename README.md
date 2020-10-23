@@ -1,4 +1,4 @@
-### this is to just test the new feature in git hub
+### 
 🔭 I’m currently working on pathfinding visualizer
 
 <!--
