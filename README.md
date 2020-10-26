@@ -1,5 +1,5 @@
 ### 
-🔭 I’m currently working on pathfinding visualizer
+Looking for an internship opportunity.
 
 <!--
 **vishnudk/vishnudk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
